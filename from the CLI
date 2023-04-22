@@ -1,0 +1,7 @@
+Create an account on Heroku
+
+Install Heroku CLI
+
+Login to your Heroku account from the CLI
+
+heroku login
